@@ -1,0 +1,77 @@
+.nav {
+    display : flex;
+    background-color: #ff007f;
+    border-radius: 10px 10px 0px 0px;
+    margin : 10px;
+}
+
+.nav >img{
+    margin-left:650px;
+    margin-top:5px;
+    height:45px;
+    width:50px;
+}
+
+.nav > p{
+    font-weight: 600;
+    color: white;
+    margin-left:15px;
+}
+
+.logs{
+    text-align: left;
+    padding-left: 30px;
+    padding-top : 50px;
+    height : 350px;
+}
+
+.mainimage{
+    padding-right:2000px;
+}
+
+#coverimg{
+    
+    height : 330px;
+    width : 300px;
+    border-radius: 10px;
+    
+}
+.trio{
+    position: relative;
+    left: 350px;
+    bottom: 300px;
+    display:inline-flex;
+}
+
+#loclogo{
+    margin-top:10px;
+    height : 18px;
+    width : 18px;
+    padding-right:2px;
+}
+
+#loco{
+    margin-top:8px;
+    padding-right:25px;
+}
+
+.trio > a{
+    margin-top:6px;
+    color: grey; 
+}
+
+.lower{
+    position: relative;
+    left : 350px;
+    bottom: 280px;
+}
+
+.lower > h1{
+    position :relative;
+    bottom:20px;
+}
+
+
+.desc{
+    max-width: 600px;
+}
